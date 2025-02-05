@@ -1,4 +1,1 @@
-# show me the money
-## show me the money
-### show me the money
-#### show me the money
+![Image of yaktocat](https://octodex.github.com/images/yaktocat.png)
